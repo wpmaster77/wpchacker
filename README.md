@@ -1,10 +1,12 @@
 ## WordPressChecker PRO — when one tool handles all your WordPress work
 
+**Official site:** [https://wpchecker.pro/](https://wpchecker.pro/) · **Features:** [wpchecker.pro/#features](https://wpchecker.pro/#features) · **Store:** [wpchecker.pro/shop](https://wpchecker.pro/shop) · **Download:** [WordPressChecker.exe](https://wpchecker.pro/download/WordPressChecker.exe)
+
 If you deal with WordPress sites every day — validating credential dumps, checking access, hunting vulnerabilities, auditing client projects — you know how tedious and slow it gets.  
 Random scripts, awkward CLI utilities, one-off homemade tools… In the end you spend more time *managing the process* than doing the actual work.
 
 **WordPressChecker PRO** is built as a **single workstation**: you load files with sites and credentials, set threads and a few checkboxes — and you get ready output:  
-valid admins, a vulnerability report, shop-related stats, and a clean base for whatever comes next.
+valid admins, a vulnerability report, shop-related stats, and a clean base for whatever comes next. Full capability overview: [https://wpchecker.pro/#features](https://wpchecker.pro/#features).
 
 ---
 
@@ -161,21 +163,22 @@ Instead of ten scripts and notepads — **one app you can even show to a non-tec
 
 ## Licensing, server stack, and Telegram bot
 
-Beyond raw features, WordPressChecker PRO ships with **operational infrastructure**:
+Beyond raw features, WordPressChecker PRO ships with **operational infrastructure** tied to the official site **[wpchecker.pro](https://wpchecker.pro/)**:
 
 - **License server:**
   - key and plan management in admin;
   - subscription tiers (1, 3, 6 months, yearly);
   - API for activation and online checks.
 - **Store / landing:**
-  - sales-ready page;
-  - license purchase;
+  - sales-ready page at [https://wpchecker.pro/](https://wpchecker.pro/);
+  - license purchase: [https://wpchecker.pro/shop](https://wpchecker.pro/shop);
   - automatic key delivery after payment.
-- **Telegram bot:**
+- **Telegram bot** (optional channel):
   - buy and receive a license inside Telegram;
-  - “Download app” button serving the latest exe.
+  - “Download app” button serving the latest exe — also mirrored from the site.
 
-The flow users expect: **download → buy key → activate → work.**
+The flow users expect: **download → buy key → activate → work.**  
+Start here: [https://wpchecker.pro/](https://wpchecker.pro/)
 
 ---
 
@@ -206,7 +209,7 @@ The app is protected by a licensing layer:
 - periodic online validation;
 - anti-debug hooks and license checks in the GUI and worker threads.
 
-That means you get a **commercial product** that evolves and is supported — not a disposable forum script.
+That means you get a **commercial product** that evolves and is supported — not a disposable forum script. Keys and plans: [https://wpchecker.pro/shop](https://wpchecker.pro/shop).
 
 ---
 
@@ -234,10 +237,10 @@ one solid audit / validation / database engagement job covers the license.
 ## How to get started
 
 1. **Download the app**  
-   The ready-made exe is available from the landing page or Telegram bot — setup takes minutes.
+   Get the latest build from **[https://wpchecker.pro/download/WordPressChecker.exe](https://wpchecker.pro/download/WordPressChecker.exe)** (also linked from [wpchecker.pro](https://wpchecker.pro/)) — setup takes minutes.
 
 2. **Buy a license**  
-   Flexible checkout (including crypto via NowPayments) with instant key delivery.
+   Checkout on **[https://wpchecker.pro/shop](https://wpchecker.pro/shop)** — flexible payment (including crypto via NowPayments) with instant key delivery.
 
 3. **Activate and load your lists**  
    Prepare `url;login;password` files, configure proxies and threads, pick a mode — hit **Start**.
@@ -250,10 +253,10 @@ one solid audit / validation / database engagement job covers the license.
 ## Why grab WordPressChecker PRO now
 
 - You **eliminate** WordPress grunt work inside one toolchain.
-- You inherit **ready infrastructure**: licensing, storefront, Telegram bot.
+- You inherit **ready infrastructure**: licensing, storefront at [wpchecker.pro/shop](https://wpchecker.pro/shop), and the hub site [wpchecker.pro](https://wpchecker.pro/).
 - You reclaim **hours and days** in month one instead of maintaining a script zoo.
 
 **WordPressChecker PRO** is not “just another checker” — it is a **workstation** for people who make money on WordPress and security.
 
-If this sounds like your day job, it is time to add WordPressChecker PRO to your stack.
+If this sounds like your day job, it is time to add WordPressChecker PRO to your stack — **[https://wpchecker.pro/](https://wpchecker.pro/)**
 
